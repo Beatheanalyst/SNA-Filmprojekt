@@ -1,6 +1,6 @@
 id,name,category,sex,oscar, visitors,publication
 gg,greta gerwig,1,1,1,NA,NA
-bar,barbie,2,NA,                    NA,5.91.303,2023
+bar,barbie,2,NA,NA,5.91.303,2023
 wb,warner bros,3,NA,NA,NA,NA
 hf,heyday films,3,NA,NA,NA,NA
 lc,luckychap entertainment,3,NA,NA,NA,NA
@@ -18,12 +18,11 @@ jc,james cameron,1,2,1,NA,NA
 le,lightstorm entertainment ,3,NA,NA,NA,NA
 20thc,20th century studios,3,NA,NA,NA,NA
 te,TSG entertainment ,3,NA,NA,NA,NA
-ther,"the rise of gru
-",2,NA,3,4.141.424,2022
+ther,"the rise of gru",2,NA,3,4.141.424,2022
 kb,kyle balda,1,2,3,NA,NA
 ba,brad ableson,1,2,3,NA,NA
-jdv,jonathan del val ,1,2,3,                     NA,                     NA
-bd,bora dagtekin,1,2,3,                     NA,                     NA
+jdv,jonathan del val ,1,2,3,NA,NA
+bd,bora dagtekin,1,2,3,NA,NA
 fjg,fack ju göhte 3,2,NA,3,6.108.107,2017
 cf,consantin film,3,NA,NA,NA,NA
 rp,rat pack,3,NA,NA,NA,NA
@@ -38,9 +37,7 @@ as,andrew stanton,1,2,3,NA,NA
 am,angus maclane,1,2,3,NA,NA
 fid,finding dorie,2,NA,3,3.921.870,2016
 wdas,walt disney animation studios,3,NA,NA,NA,NA
-pix,pixar,3,NA,NA,NA,NA
-,,,,,,
-,,,,,,
+pix,pixar,3,NA,NA,NA
 diee,die eiskönigin 2,2,NA,2,6.785.541,2019
 jl,jennifer lee,1,1,3,NA,NA
 cb,chris buck,1,2,3,NA,NA
@@ -54,22 +51,3 @@ gkf,gk films,3,NA,NA,NA,NA
 qf,queen films,3,NA,NA,NA,
 pha,phantastische tierwesen - grindelwalds verbrechen,2,NA,3,3.907.653,2018
 dy,david yates,1,2,3,NA,NA
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-film ,,,,,,
-regie,,,,,,
-produktionsfirma,,,,,,
