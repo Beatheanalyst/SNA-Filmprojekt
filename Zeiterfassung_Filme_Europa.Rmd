@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ## Zeiterfassung
-Unsere Zeitplanung teilt sich in zwei Produktionsphasen ein. Wir haben bereits den Pretest erhoben.
+Unsere Zeitplanung teilt sich in zwei Datenerhebungsphasen ein. Wir haben bereits den Pretest erhoben.
 Jede von uns erhebt jeweils die Filme.
 Hier sind unsere Termine und Deadlines:
 - 14.02.: jede hat die Hälfte ihrer Daten erhoben. In unserem Fall die Hälfte unserer Filme. Zusätzlich hat jede von uns eine eigene Fehlerkontrolle mittels der Prüfung im Google Sheets und der raw Version in Github durchgeführt und eigene Daten verbessert.
