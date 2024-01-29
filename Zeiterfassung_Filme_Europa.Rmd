@@ -9,7 +9,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Zeiterfassung
+## Zeitplanung
 Unsere Zeitplanung teilt sich in zwei Datenerhebungsphasen ein. Wir haben bereits den Pretest erhoben.
 Jede von uns erhebt jeweils die Filme.
 Hier sind unsere Termine und Deadlines:
@@ -19,10 +19,10 @@ In diesem Zeitraum teilen wir uns in zwei Kontrollteams auf, die sich treffen un
 - 01.03.: Jede von uns hat bis dann final alle ihrer Filme erhoben und die Fehlerkontrolle wie oben beschrieben durchgeführt. Am selben Tag arbeiten wir wie oben in unseren Kontrollteams. 
 - 03. 03.: gemeinsames Treffen mit allen, in dem wir mögliche Fehler beheben, uns Gedanken zur Visualisierung machen. Zusätzlich reden wir über unsere Fehlertipps für unsere Nachfolger. 
 
-##Allgemein
+## Allgemein
 Wir bleiben in ständigem Kontakt und behalten es uns vor, unter der Woche bei Bedarf Meetings zu machen. 
 
-##Zeiterfassung
+## Zeiterfassung
 #Als Gruppe: Pretest am 26.1. (4 Stunden); 20.1. 13-17 Uhr Meeting; 12.1. 8 bis 10 Uhr
 4+4+2
 
