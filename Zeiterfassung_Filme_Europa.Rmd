@@ -23,8 +23,8 @@ In diesem Zeitraum teilen wir uns in zwei Kontrollteams auf, die sich treffen un
 Wir bleiben in ständigem Kontakt und behalten es uns vor, unter der Woche bei Bedarf Meetings zu machen. 
 
 ## Zeiterfassung
-Datum,Zeit,Name,Was haben wir gemacht,Learnings,Probleme,sonstige Anmerkungen
-20.1.,13-17 Uhr,Pretest besprechen,NA,NA,NA
+Datum, Zeit, Name, Was haben wir gemacht, Learnings, Probleme, sonstige Anmerkungen
+20.1., 13-17 Uhr, Pretest besprechen, NA, NA, NA
 
 
 
