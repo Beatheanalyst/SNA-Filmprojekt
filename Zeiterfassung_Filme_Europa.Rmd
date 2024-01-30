@@ -24,6 +24,7 @@ Wir bleiben in ständigem Kontakt und behalten es uns vor, unter der Woche bei B
 
 ## Zeiterfassung
 Datum,Zeit,Name,Was haben wir gemacht,Learnings,Probleme,sonstige Anmerkungen
+20.1.,13-17 Uhr,Pretest besprechen,NA,NA,NA
 
 
 
