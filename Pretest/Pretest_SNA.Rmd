@@ -1,7 +1,7 @@
 ---
 title: "226305 Tutorial"
 subtitle: "1 Netzwerk erstellen und selektieren"
-author: "Swaran Sandhu"
+author: "tb,ec,ak,ak,kr"
 output: html_notebook
 ---
 
