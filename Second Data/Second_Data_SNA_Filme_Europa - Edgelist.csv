@@ -2191,7 +2191,7 @@ BbcFi,IDan,1
 SiFil ,IDan,1
 CaKaPr,IDan,1
 WiBuPr,IDan,1
-FrCi ,IDan,1
+FrCi,IDan,1
 TaShDuGoFeDeBe,IDan,2
 BrFiIn,IDan,2
 CrEuMe,IDan,2
@@ -2203,7 +2203,7 @@ TaShDuGoFeDeBe,BbcFi,2
 TaShDuGoFeDeBe,SiFil ,2
 TaShDuGoFeDeBe,CaKaPr,2
 TaShDuGoFeDeBe,WiBuPr,2
-TaShDuGoFeDeBe,FrCi ,2
+TaShDuGoFeDeBe,FrCi,2
 BrFiIn,SiTyLi,2
 BrFiIn,WhNoPr,2
 BrFiIn,LeFiDuFl ,2
@@ -2211,7 +2211,7 @@ BrFiIn,BbcFi,2
 BrFiIn,SiFil ,2
 BrFiIn,CaKaPr,2
 BrFiIn,WiBuPr,2
-BrFiIn,FrCi ,2
+BrFiIn,FrCi,2
 CrEuMe,SiTyLi,2
 CrEuMe,WhNoPr,2
 CrEuMe,LeFiDuFl ,2
@@ -2219,7 +2219,7 @@ CrEuMe,BbcFi,2
 CrEuMe,SiFil ,2
 CrEuMe,CaKaPr,2
 CrEuMe,WiBuPr,2
-CrEuMe,FrCi ,2
+CrEuMe,FrCi,2
 SiTyLi,rebr,3
 WhNoPr,rebr,3
 LeFiDuFl ,rebr,3
@@ -2227,7 +2227,7 @@ BbcFi,rebr,3
 SiFil ,rebr,3
 CaKaPr,rebr,3
 WiBuPr,rebr,3
-FrCi ,rebr,3
+FrCi,rebr,3
 rebr,SiTyLi,3
 rebr,WhNoPr,3
 rebr,LeFiDuFl ,3
@@ -2235,7 +2235,7 @@ rebr,BbcFi,3
 rebr,SiFil ,3
 rebr,CaKaPr,3
 rebr,WiBuPr,3
-rebr,FrCi ,3
+rebr,FrCi,3
 Pa,Dhe,1
 WhNoPr,Dhe,1
 FrCi,Dhe,1
@@ -2263,7 +2263,7 @@ ArFrCi,Kis,1
 ZeFi,Kis,1
 BrFiPr,Kis,1
 MeFi,Kis,1
-Fi ,Kis,2
+Fi,Kis,2
 MeBe,Kis,2
 MitMe,Kis,2
 Eu,Kis,2
@@ -2331,10 +2331,10 @@ muyi,zeat,3
 muyi,nuce,3
 muyi,mudo,3
 muyi,alma,3
-Fi ,ArFrCi,2
-Fi ,ZeFi,2
-Fi ,BrFiPr,2
-Fi ,MeFi,2
+Fi,ArFrCi,2
+Fi,ZeFi,2
+Fi,BrFiPr,2
+Fi,MeFi,2
 MeBe,ArFrCi,2
 MeBe,ZeFi,2
 MeBe,BrFiPr,2
@@ -2411,7 +2411,7 @@ muyi,ArFrCi,3
 muyi,ZeFi,3
 muyi,BrFiPr,3
 muyi,MeFi,3
-AlFi ,LaV,1
+AlFi,LaV,1
 WiBuPr,LaV,1
 FrCi,LaV,1
 QuSoFi,LaV,1
@@ -2445,29 +2445,29 @@ anma,brch,3
 anma,abke,3
 anma,gele,3
 anma,vima,3
-CeNaDuCiEtDeLiAn,AlFi ,2
+CeNaDuCiEtDeLiAn,AlFi,2
 CeNaDuCiEtDeLiAn,WiBuPr,2
 CeNaDuCiEtDeLiAn,FrCi,2
 CeNaDuCiEtDeLiAn,QuSoFi,2
 CeNaDuCiEtDeLiAn,ScPi,2
 CeNaDuCiEtDeLiAn,VeFi,2
-Eu,AlFi ,2
+Eu,AlFi,2
 Eu,WiBuPr,2
 Eu,FrCi,2
 Eu,QuSoFi,2
 Eu,ScPi,2
 Eu,VeFi,2
-PiReHa,AlFi ,2
+PiReHa,AlFi,2
 PiReHa,WiBuPr,2
 PiReHa,FrCi,2
 PiReHa,QuSoFi,2
 PiReHa,ScPi,2
 PiReHa,VeFi,2
-AlFi ,brch,3
-AlFi ,abke,3
-AlFi ,gele,3
-AlFi ,vima,3
-AlFi ,anma,3
+AlFi,brch,3
+AlFi,abke,3
+AlFi,gele,3
+AlFi,vima,3
+AlFi,anma,3
 WiBuPr,brch,3
 WiBuPr,abke,3
 WiBuPr,gele,3
@@ -2493,31 +2493,31 @@ VeFi,abke,3
 VeFi,gele,3
 VeFi,vima,3
 VeFi,anma,3
-brch,AlFi ,3
+brch,AlFi,3
 brch,WiBuPr,3
 brch,FrCi,3
 brch,QuSoFi,3
 brch,ScPi,3
 brch,VeFi,3
-abke,AlFi ,3
+abke,AlFi,3
 abke,WiBuPr,3
 abke,FrCi,3
 abke,QuSoFi,3
 abke,ScPi,3
 abke,VeFi,3
-gele,AlFi ,3
+gele,AlFi,3
 gele,WiBuPr,3
 gele,FrCi,3
 gele,QuSoFi,3
 gele,ScPi,3
 gele,VeFi,3
-vima,AlFi ,3
+vima,AlFi,3
 vima,WiBuPr,3
 vima,FrCi,3
 vima,QuSoFi,3
 vima,ScPi,3
 vima,VeFi,3
-anma,AlFi ,3
+anma,AlFi,3
 anma,WiBuPr,3
 anma,FrCi,3
 anma,QuSoFi,3
