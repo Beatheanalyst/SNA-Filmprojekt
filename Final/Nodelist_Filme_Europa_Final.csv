@@ -1,0 +1,442 @@
+id,name,category,sex,palme dor,goldener bär,leone doro,felix,pardo doro,year,nationality,funding
+Ana,anatomie dune chute,1,99,1,99,99,1,99,2023,fra,1
+malu,marie-ange luciani,2,1,99,99,99,99,99,99,99,99
+dath,david thion,2,2,99,99,99,99,99,99,99,99
+FrCi,france 2 cinema,3,99,99,99,99,99,99,99,fra,99
+LeFiPe,les films pelleas,3,99,99,99,99,99,99,99,fra,99
+LeFiDePi,les films de pierre,3,99,99,99,99,99,99,99,fra,99
+AuRhAlCi,auvergne rhone alpes cinema,3,99,99,99,99,99,99,99,fra,99
+DeDeLaChMa,departement de la charente-maritime,4,99,99,99,99,99,99,99,fra,99
+ReAu,region auvergne-rhone-alpes,4,99,99,99,99,99,99,99,fra,99
+ReNo,region nouvelle-aquitaine,4,99,99,99,99,99,99,99,fra,99
+CeNaDuCiEtDeLiAn,centre national du cinema et de lImage animee ,4,99,99,99,99,99,99,99,fra,99
+Sur,sur ladamant,1,99,99,1,99,2,99,2023,frajap,1
+celo,celine loiseau,2,1,99,99,99,99,99,99,99,99
+gisa,gilles sacuto,2,2,99,99,99,99,99,99,99,99
+mipo,milena poylo,2,1,99,99,99,99,99,99,99,99
+noha,norio hatano,2,2,99,99,99,99,99,99,99,99
+TsPr,ts production,3,99,99,99,99,99,99,99,fra,99
+Lo,longride,3,99,99,99,99,99,99,99,jap,99
+FiPaRe,film paris region,4,99,99,99,99,99,99,99,fra,99
+Poo,poor things,1,99,99,99,1,99,99,2023,usabriirl,2
+yola,yorgos lanthimos,2,2,99,99,99,99,99,99,99,99
+emst,emma stone,2,1,99,99,99,99,99,99,99,99
+edgu,ed guiney,2,2,99,99,99,99,99,99,99,99
+dami,david minkowski,2,2,99,99,99,99,99,99,99,99
+ilke,ildiko kemeny,2,1,99,99,99,99,99,99,99,99
+kama,kasia malipan,2,1,99,99,99,99,99,99,99,99
+anlo,andrew lowe,2,2,99,99,99,99,99,99,99,99
+ElPi,element pictures,3,99,99,99,99,99,99,99,usa,99
+FrTr,fruit tree,3,99,99,99,99,99,99,99,usa,99
+SePi,searchlight pictures,3,99,99,99,99,99,99,99,usa,99
+FiPr,film4 productions,3,99,99,99,99,99,99,99,bri,99
+Mant,mantagheye bohrani,1,99,99,99,99,99,1,2023,iradeu,2
+alah,ali ahmadzadeh,2,2,99,99,99,99,99,99,99,99
+side,sina ataeian dena,2,2,99,99,99,99,99,99,99,99
+CoInFi,counter intuitive film,3,99,99,99,99,99,99,99,deu,99
+Reg,regra 34,1,99,99,99,99,99,1,2022,brafra,2
+tale,tatiana leite,2,1,99,99,99,99,99,99,99,99
+jumu,julia murat,2,1,99,99,99,99,99,99,99,99
+EsFi,esquina films,3,99,99,99,99,99,99,99,bra,99
+StMo,still moving,3,99,99,99,99,99,99,99,fra,99
+BuPr,bubbles projects,3,99,99,99,99,99,99,99,bra,99
+Im,imovision,3,99,99,99,99,99,99,99,bra,99
+Sep,seperti dendam hindu rarus dibayar tuntas,1,99,99,99,99,99,1,2021,indsindeu,1
+muza,muhammad zaidy,2,2,99,99,99,99,99,99,99,99
+meta,meiske taurisia,2,1,99,99,99,99,99,99,99,99
+faak,fatih akin,2,2,99,99,99,99,99,99,99,99
+vifü,viola fügen,2,1,99,99,99,99,99,99,99,99
+reju,reno junirman,2,2,99,99,99,99,99,99,99,99
+nupo,nurhan sekerci porst,2,2,99,99,99,99,99,99,99,99
+beta,bert tan,2,2,99,99,99,99,99,99,99,99
+nagu,nathaniel gunawan,2,2,99,99,99,99,99,99,99,99
+miwe,michael weber,2,2,99,99,99,99,99,99,99,99
+lawe,lai weijie,2,2,99,99,99,99,99,99,99,99
+PaFi,palari films,3,99,99,99,99,99,99,99,sin,99
+PhFi,phoenix films,3,99,99,99,99,99,99,99,sin,99
+EwFi,ew films,3,99,99,99,99,99,99,99,sin,99
+MaFaPr,match factory productions,3,99,99,99,99,99,99,99,deu,99
+BoIn,bombero international,3,99,99,99,99,99,99,99,deu,99
+MoFiHaSc,moin filmförderung hamburg schleswig-holstein,4,99,99,99,99,99,99,99,deu,99
+Cho,chocobar,1,99,99,99,99,99,1,2020,argusadenmex,2
+joba,joslyn barnes,2,1,99,99,99,99,99,99,99,99
+saga,santiago gallelli,2,2,99,99,99,99,99,99,99,99
+bedo,benjamin domenech,2,2,99,99,99,99,99,99,99,99
+maro,matias roveda,2,2,99,99,99,99,99,99,99,99
+LoFi,louverture films,3,99,99,99,99,99,99,99,usa,99
+SnFi,snowglobe films,3,99,99,99,99,99,99,99,dän,99
+Pi,piano,3,99,99,99,99,99,99,99,99,99
+ReCiBeDo,rei cine benjamin domenech,3,99,99,99,99,99,99,99,arg,99
+Vit,vitalina varela,1,99,99,99,99,99,1,2019,por,2
+abch,abel ribeiro chaves,2,2,99,99,99,99,99,99,99,99
+OpFi,optec films,3,99,99,99,99,99,99,99,por,99
+Tri,triangle of sadness,1,99,1,99,99,1,99,2022,dändeufraschd,1
+EsFiPr,essential filmproduktion,3,99,99,99,99,99,99,99,deu,99
+PlPr,plattform produktion,3,99,99,99,99,99,99,99,schd,99
+CoOf,coproduction office,3,99,99,99,99,99,99,99,deufra,99
+SvTeAb,sveriges television ab,3,99,99,99,99,99,99,99,schd,99
+ArFrCi,arte france cinema,3,99,99,99,99,99,99,99,fra,99
+NoFi,nordisk film,3,99,99,99,99,99,99,99,dännorschd,99
+He,heretic,3,99,99,99,99,99,99,99,gri,99
+BoCaFiSa,bord cadre film sars,3,99,99,99,99,99,99,99,schz,99
+SoFi,sovereign films,3,99,99,99,99,99,99,99,bri,99
+SoPaDePr,societe parisienne de production ,3,99,99,99,99,99,99,99,fra,99
+Fi,filmförderungsanstalt,4,99,99,99,99,99,99,99,deu,99
+GrFiCe,greek film centre,4,99,99,99,99,99,99,99,gri,99
+MeBe,medienboard berlin-brandenburg,4,99,99,99,99,99,99,99,deu,99
+FiIVä,film i väst,4,99,99,99,99,99,99,99,schd,99
+DeDaFi,det danske filminstitut,4,99,99,99,99,99,99,99,dän,99
+BrFiIn,british film institute,4,99,99,99,99,99,99,99,bri,99
+SvFi,svenska filminstitutet,4,99,99,99,99,99,99,99,schd,99
+CrEuMe,creative europe media,4,99,99,99,99,99,99,99,eur,99
+Eu,eurimages,4,99,99,99,99,99,99,99,eur,99
+phbo,philippe bober,2,2,99,99,99,99,99,99,99,99
+erhe,erik hemmendorff,2,2,99,99,99,99,99,99,99,99
+clkö,clemens köstlin ,2,2,99,99,99,99,99,99,99,99
+Ano,another round druk,1,99,99,99,99,1,99,2020,dän,1
+TvDe,tv2 denmark,4,99,99,99,99,99,99,99,dän,99
+NeFiFu,netherland film funds,4,99,99,99,99,99,99,99,nie,99
+SwFiIn,swedish film institute,4,99,99,99,99,99,99,99,schd,99
+NeFiPrIn,netherland film production incentive,4,99,99,99,99,99,99,99,nie,99
+kadi,kasper dissing,2,99,99,99,99,99,99,99,99,99
+sijo,sisse graum jorgensen,2,99,99,99,99,99,99,99,99,99
+Alc,Alcarras,1,99,99,1,99,2,99,2022,spaita,1
+maza,maria zamora,2,1,99,99,99,99,99,99,99,99
+stsc,stefan schmitz,2,2,99,99,99,99,99,99,99,99
+tofo,tono folguera,2,2,99,99,99,99,99,99,99,99
+semo,sergi moreno,2,2,99,99,99,99,99,99,99,99
+gipo,giovanni pompili,2,2,99,99,99,99,99,99,99,99
+ElFi,elastica films,3,99,99,99,99,99,99,99,spa,99
+Av,avalon,3,99,99,99,99,99,99,99,spa,99
+KiPr,kino produzioni,3,99,99,99,99,99,99,99,ita,99
+ViFi,vilaut films,3,99,99,99,99,99,99,99,spa,99
+Bab,babardeala cu bucluc sau porno balamuc,1,99,99,1,99,99,99,2021,rumluxkrotsc,1
+path,paul thiltges,2,2,99,99,99,99,99,99,99,99
+adch,adrien chef,2,2,99,99,99,99,99,99,99,99
+jiko,jiri konecny,2,2,99,99,99,99,99,99,99,99
+anti,ankica juric tilic,2,1,99,99,99,99,99,99,99,99
+En,endorfilm,3,99,99,99,99,99,99,99,tsc,99
+Ki,kinorama,3,99,99,99,99,99,99,99,kro,99
+MiFi,micro film,3,99,99,99,99,99,99,99,rum,99
+PaThDi,paul thiltges distributions,3,99,99,99,99,99,99,99,lux,99
+FiFuLu,film fund luxembourg,4,99,99,99,99,99,99,99,lux,99
+CzFiFu,czech film fund,4,99,99,99,99,99,99,99,tsc,99
+CrAuCe,croatian audiovisual centre,4,99,99,99,99,99,99,99,kro,99
+She,sheytan vojud nadarad,1,99,99,1,99,99,99,2020,deutscira,1
+mora,mohammad rasoulof,2,2,99,99,99,99,99,99,99,99
+kafa,kaveh farnam,2,2,99,99,99,99,99,99,99,99
+fapa,farzad pak,2,2,99,99,99,99,99,99,99,99
+CoFi,cosmopol film,3,99,99,99,99,99,99,99,deu,99
+EuMeNe,europe media nest,3,99,99,99,99,99,99,99,tsc,99
+FiInIr,filminiran,3,99,99,99,99,99,99,99,ira,99
+Syn,synonymes,1,99,99,1,99,99,99,2019,fraisrdeu,1
+sasa,said ben said,2,2,99,99,99,99,99,99,99,99
+mime,michel merkt,2,2,99,99,99,99,99,99,99,99
+oske,osnat handelsman keren,2,1,99,99,99,99,99,99,99,99
+takl,talia kleinhendler,2,1,99,99,99,99,99,99,99,99
+jaja,janine jackowski,2,1,99,99,99,99,99,99,99,99
+jodo,jonas dornbach,2,2,99,99,99,99,99,99,99,99
+maad,maren ade,2,1,99,99,99,99,99,99,99,99
+olpe,olivier pere,2,2,99,99,99,99,99,99,99,99
+rebu,remi burah,2,2,99,99,99,99,99,99,99,99
+SbFi,sbs films,3,99,99,99,99,99,99,99,fra,99
+KoFi,komplizen film,3,99,99,99,99,99,99,99,deu,99
+PiFi,pie films,3,99,99,99,99,99,99,99,isr,99
+AiAuCiDuMo,aide aux cinemas du monde,4,99,99,99,99,99,99,99,fra,99
+DeFö,deutsch-französische förderkommission,4,99,99,99,99,99,99,99,deufra,99
+Tit,titane,1,99,1,99,99,2,99,2021,frabel,1
+jero,jean-yves roubin,2,2,99,99,99,99,99,99,99,99
+amov,amaury ovise,2,2,99,99,99,99,99,99,99,99
+jere,jean-christophe reymond,2,2,99,99,99,99,99,99,99,99
+cawa,cassandre warnauts ,2,1,99,99,99,99,99,99,99,99
+KaPr,kazak productions,3,99,99,99,99,99,99,99,fra,99
+FrPr,frakas productions,3,99,99,99,99,99,99,99,bel,99
+GaFoFoFi,gan foundation for film,4,99,99,99,99,99,99,99,fra,99
+Gis,gisaengchung ,1,99,1,99,99,99,99,2019,südkor,1
+kwae,kwak sin ae,2,1,99,99,99,99,99,99,99,99
+boho,bong joon ho,2,2,99,99,99,99,99,99,99,99
+mokw,moon yang kwon,2,2,99,99,99,99,99,99,99,99
+jahw,jang young hwan,2,2,99,99,99,99,99,99,99,99
+Ba,barunson,3,99,99,99,99,99,99,99,südkor,99
+CjEn,cj entertainment,3,99,99,99,99,99,99,99,südkor,99
+KoDeBa,korea development bank,4,99,99,99,99,99,99,99,südkor,99
+RyPsAsMa,ryukyung psg asset management,4,99,99,99,99,99,99,99,südkor,99
+All,all the beauty and the bloodshed,1,99,99,99,1,99,99,2022,usa,2
+yogo,yoni golijov,2,2,99,99,99,99,99,99,99,99
+hoge,howard gertler,2,2,99,99,99,99,99,99,99,99
+nago,nan goldin,2,1,99,99,99,99,99,99,99,99
+lapo,laura poitras,2,1,99,99,99,99,99,99,99,99
+meka,megan kapler,2,1,99,99,99,99,99,99,99,99
+joly,john lyons,2,2,99,99,99,99,99,99,99,99
+PaMe,participant media,3,99,99,99,99,99,99,99,usa,99
+PrFi,praxis films,3,99,99,99,99,99,99,99,usa,99
+Lev,levenement,1,99,99,99,1,2,99,2021,fra,1
+edwe,edouard weil ,2,2,99,99,99,99,99,99,99,99
+algi,alice girard,2,1,99,99,99,99,99,99,99,99
+SrFi,srab films,3,99,99,99,99,99,99,99,99,99
+WiBuPr,wild bunch production,3,99,99,99,99,99,99,99,99,99
+FraCi,france 3 cinema,3,99,99,99,99,99,99,99,fra,99
+RePr,rectangle productions,3,99,99,99,99,99,99,99,fra,99
+Nom,nomadland,1,99,99,99,1,99,99,2020,usa,1
+daja,dan janvey,2,2,99,99,99,99,99,99,99,99
+emfo,emily foley,2,1,99,99,99,99,99,99,99,99
+chzh,chloe zhao,2,1,99,99,99,99,99,99,99,99
+tash,taylor shung,2,1,99,99,99,99,99,99,99,99
+pesp,peter spears,2,2,99,99,99,99,99,99,99,99
+frmc,frances mcdormand,2,1,99,99,99,99,99,99,99,99
+geli,geoff linville,2,2,99,99,99,99,99,99,99,99
+moas,mollye asher,2,1,99,99,99,99,99,99,99,99
+CoCoPr,cor cordium productions,3,99,99,99,99,99,99,99,usa,99
+HePr,hearsay productions,3,99,99,99,99,99,99,99,usa,99
+HiFi,highwayman films,3,99,99,99,99,99,99,99,usa,99
+AlMoPi,alchemy motion pictures,4,99,99,99,99,99,99,99,eng,99
+Jok,joker,1,99,99,99,1,99,99,2019,usakan,2
+emko,emma koskoff,2,1,99,99,99,99,99,99,99,99
+brco,bradley cooper,2,2,99,99,99,99,99,99,99,99
+dawe,david webb,2,2,99,99,99,99,99,99,99,99
+toph,todd phillips,2,2,99,99,99,99,99,99,99,99
+JoEf,joint effort,3,99,99,99,99,99,99,99,usa,99
+BrSt,bron studios,3,99,99,99,99,99,99,99,usa,99
+DcEn,dc entertainment,3,99,99,99,99,99,99,99,usa,99
+ViRoPi,village roadshow pictures,3,99,99,99,99,99,99,99,usa,99
+WaBrPi,warner bros pictures,3,99,99,99,99,99,99,99,usa,99
+TheF,the favourite,1,99,99,99,99,1,99,2019,irlbriusa,1
+Ar,arcana,3,99,99,99,99,99,99,99,usa,99
+ScFi,scarlet films,3,99,99,99,99,99,99,99,bri,99
+WaEn,waypoint entertainment,3,99,99,99,99,99,99,99,usa,99
+cede,ceci dempsey,2,1,99,99,99,99,99,99,99,99
+lema,lee magiday,2,2,99,99,99,99,99,99,99,99
+jese,jennifer semler,2,1,99,99,99,99,99,99,99,99
+IrFiBo,irish film board,4,99,99,99,99,99,99,99,irl,99
+Hua,huan tu,1,99,99,99,99,99,1,2018,sinfranie,1
+frbo,fran borgia,2,2,99,99,99,99,99,99,99,99
+AkFiPr,akanga film productions,3,99,99,99,99,99,99,99,sin,99
+MmEn,mm2 entertainment,3,99,99,99,99,99,99,99,sin,99
+FiDeFoMa,films de force majeure,3,99,99,99,99,99,99,99,fra,99
+VoFi,volya films,3,99,99,99,99,99,99,99,nie,99
+13LiPi,13 little pictures,3,99,99,99,99,99,99,99,sin,99
+SiFiCo,singapore film commission,4,99,99,99,99,99,99,99,sin,99
+Fan,fang xiu ying mrs fang,1,99,99,99,99,99,1,2017,frachideu,1
+piba,pierre-olivier bardet,2,2,99,99,99,99,99,99,99,99
+waya,wang yang,2,2,99,99,99,99,99,99,99,99
+koli,kong lihong,2,1,99,99,99,99,99,99,99,99
+AlWaPi,all ways pictures,3,99,99,99,99,99,99,99,fradeu,99
+IdAu,ideale audience,3,99,99,99,99,99,99,99,fra,99
+WiPr,wil productions,3,99,99,99,99,99,99,99,dän,99
+Pr,procirep,4,99,99,99,99,99,99,99,fra,99
+FoCaPoLaCo,Fondation Cartier pour lart contemporain,4,99,99,99,99,99,99,99,fra,99
+Bez,bezbog,1,99,99,99,99,2,1,2016,buldänfra,1
+rova,rossitsa valkanova,2,1,99,99,99,99,99,99,99,99
+KlFi,klas films,3,99,99,99,99,99,99,99,bul,99
+AlFi,alcatraz films,3,99,99,99,99,99,99,99,fra,99
+FiFa,film factory,3,99,99,99,99,99,99,99,spa,99
+Zim,zimna wojna,1,99,2,99,99,1,99,2018,frapolbri,1
+OpFil,opus films,3,99,99,99,99,99,99,99,pol,99
+MkPr,mk productions,3,99,99,99,99,99,99,99,fra,99
+ApPi,apocalypso pictures,3,99,99,99,99,99,99,99,bri,99
+SiFi,silesia film,3,99,99,99,99,99,99,99,pol,99
+tase,tanya seghatchian,2,1,99,99,99,99,99,99,99,99
+ewpu,ewa puszczynska,2,1,99,99,99,99,99,99,99,99
+mabe,magorzata bela,2,1,99,99,99,99,99,99,99,99
+pidz,piotr dzieciol,2,2,99,99,99,99,99,99,99,99
+TheS,the square,1,99,1,99,99,1,99,2017,dänfradeuschdusa,1
+ImEnCo,imperial entertainment corporation,3,99,99,99,99,99,99,99,usa,99
+sana,sarah nagel,2,1,99,99,99,99,99,99,99,99
+kaad,katja adomeit,2,1,99,99,99,99,99,99,99,99
+iswi,isabell wiegand,2,1,99,99,99,99,99,99,99,99
+Man,manbiki kazoku,1,99,1,99,99,99,99,2018,jap,1
+meba,megumi banse,2,1,99,99,99,99,99,99,99,99
+kohi,kore-eda hirokazu,2,2,99,99,99,99,99,99,99,99
+kaoma,kaoru matsuzaki ,2,1,99,99,99,99,99,99,99,99
+shok,shoko okamura,2,1,99,99,99,99,99,99,99,99
+hita,hijiri taguchi ,2,2,99,99,99,99,99,99,99,99
+hirta,hiromasa tamai ,2,2,99,99,99,99,99,99,99,99
+akyo,akihiko yose ,2,2,99,99,99,99,99,99,99,99
+AoPr,aoi promotion,3,99,99,99,99,99,99,99,jap,99
+FuTeNe,fuji television network,3,99,99,99,99,99,99,99,jap,99
+GaCo,gaga communications,3,99,99,99,99,99,99,99,jap,99
+ToLoBo,tokyo location box ,4,99,99,99,99,99,99,99,jap,99
+Ton,toni erdmann,1,99,2,99,99,1,99,2016,östdeu,1
+Hi,hifilm,3,99,99,99,99,99,99,99,rum,99
+MiLiFi,missing link films,3,99,99,99,99,99,99,99,deu,99
+BuFiMe,bundesregierung für film und medien,4,99,99,99,99,99,99,99,deu,99
+DeFi,deutscher filmförderfonds,4,99,99,99,99,99,99,99,deu,99
+FiMeNr,film- und medienstiftung nrw,4,99,99,99,99,99,99,99,deu,99
+FiBa,filmfernsehfonds bayern,4,99,99,99,99,99,99,99,deu,99
+GeFi,german films,4,99,99,99,99,99,99,99,deu,99
+ansv,antonin svoboda,2,2,99,99,99,99,99,99,99,99
+brwa,bruno wagner,2,2,99,99,99,99,99,99,99,99
+iota,ioana cristina tarchila,2,1,99,99,99,99,99,99,99,99
+Jig,jigeumeun matgo geuttaeneun teullida,1,99,99,99,99,99,1,2015,süd,1
+kiky,kim kyounghee,2,2,99,99,99,99,99,99,99,99
+JeFi,jeonwonsa films,3,99,99,99,99,99,99,99,kor,99
+Mul,mula sa kung ano ang noon,1,99,99,99,99,99,1,2014,phi,1
+ladi,lav diaz,2,2,99,99,99,99,99,99,99,99
+krda,krzysztof dabrowski,2,2,99,99,99,99,99,99,99,99
+SiOlPi,sine olivia pilipinas,3,99,99,99,99,99,99,99,phi,99
+FiDeCoOfThPh,Film Development Council of the Philippines,4,99,99,99,99,99,99,99,phi,99
+His,historia de la meva mort,1,99,99,99,99,99,1,2013,spafra,1
+motr,montse triola,2,1,99,99,99,99,99,99,99,99
+thlo,thierry lounas,2,2,99,99,99,99,99,99,99,99
+alse,albert serra,2,2,99,99,99,99,99,99,99,99
+AnFi,andergraun films,3,99,99,99,99,99,99,99,spa,99
+CaFi,capricci films,3,99,99,99,99,99,99,99,fra,99
+InDeLaCiYDeLaArAu,instituto de la cinematografía y de las artes audiovisuales,4,99,99,99,99,99,99,99,spa,99
+InCaDeLeEmCu,institut catala de les empreses culturals,4,99,99,99,99,99,99,99,spa,99
+IDan,i daniel blake,1,99,1,99,99,2,99,2016,brifrabeldeu,1
+rebr,rebecca o brien ,2,1,99,99,99,99,99,99,99,99
+SiTyLi,sixteen tyne limited,3,99,99,99,99,99,99,99,bri,99
+WhNoPr,why not productions,3,99,99,99,99,99,99,99,fra,99
+LeFiDuFl ,les films du fleuve,3,99,99,99,99,99,99,99,bel,99
+BbcFi,bbc films ,3,99,99,99,99,99,99,99,bri,99
+SiFil ,sixteen films,3,99,99,99,99,99,99,99,bri,99
+CaKaPr,casa kafka productions,3,99,99,99,99,99,99,99,bel,99
+TaShDuGoFeDeBe,tax shelter du gouvernement federal de belgique ,4,99,99,99,99,99,99,99,bel,99
+Dhe,Dheepan,1,99,1,99,99,99,99,2015,fra,1
+paca,pascal caucheteux ,2,2,99,99,99,99,99,99,99,99
+grso,gregoire sorlat ,2,2,99,99,99,99,99,99,99,99
+Pa,page 114,3,99,99,99,99,99,99,99,fra,99
+MitMe,mitteldeutsche medienförderung,4,99,99,99,99,99,99,99,deu,99
+Kis,kis uykusu,1,99,1,99,99,2,99,2014,türfradeu,1
+haal,haider ali,2,2,99,99,99,99,99,99,99,99
+zeat,zeynep özbatur atakan,2,1,99,99,99,99,99,99,99,99
+nuce,nuri bilge ceylan,2,2,99,99,99,99,99,99,99,99
+mudo,mustafa dok,2,2,99,99,99,99,99,99,99,99
+alma,alexandre mallet-guy,2,2,99,99,99,99,99,99,99,99
+muyi,muzaffer yildirim,2,2,99,99,99,99,99,99,99,99
+ZeFi,zeyno film,3,99,99,99,99,99,99,99,tür,99
+BrFiPr,bredok film production,3,99,99,99,99,99,99,99,deu,99
+MeFi,memento films,3,99,99,99,99,99,99,99,fra,99
+LaV,la vie dadele - chapitre 1 et 2,1,99,1,99,99,2,99,2013,frabelspadeu,1
+brch,brahim chioua,2,2,99,99,99,99,99,99,99,99
+abke,abdellatif kechiche,2,2,99,99,99,99,99,99,99,99
+gele,genevieve lemal,2,1,99,99,99,99,99,99,99,99
+vima,vincent maraval,2,2,99,99,99,99,99,99,99,99
+anma,andres martin,2,2,99,99,99,99,99,99,99,99
+QuSoFi,quat sous films,3,99,99,99,99,99,99,99,fra,99
+ScPi,scope pictures,3,99,99,99,99,99,99,99,bel,99
+VeFi,vertigo films,3,99,99,99,99,99,99,99,spa,99
+PiReHa,pictanovo region hauts-de-france,4,99,99,99,99,99,99,99,fra,99
+You,youth - la giovinezza,1,99,2,99,99,1,99,2015,usaitaschz,1
+InFi,indigo film s.r.l.,3,99,99,99,99,99,99,99,ita,99
+CAg,c-films ag,3,99,99,99,99,99,99,99,schz,99
+MeFil,medusa films,3,99,99,99,99,99,99,99,ita,99
+vias,vivien aslanian,2,1,99,99,99,99,99,99,99,99
+chca,charlotte calori,2,1,99,99,99,99,99,99,99,99
+frcim,francesca cima,2,1,99,99,99,99,99,99,99,99
+faco,fabio conversi,2,2,99,99,99,99,99,99,99,99
+nigi,nicola giuliano,2,1,99,99,99,99,99,99,99,99
+elka,elisabeth karlsen,2,1,99,99,99,99,99,99,99,99
+dako,david kosse,2,2,99,99,99,99,99,99,99,99
+rogr,romain la grand,2,2,99,99,99,99,99,99,99,99
+musa,muriel sauzay,2,1,99,99,99,99,99,99,99,99
+jesey,jerome seydoux,2,2,99,99,99,99,99,99,99,99
+anwa,anne walser,2,1,99,99,99,99,99,99,99,99
+stwo,stephen woolley,2,2,99,99,99,99,99,99,99,99
+Ida,Ida,1,99,99,99,99,1,99,2014,dänpol,1
+PhFiIn,phoenix film investments,3,99,99,99,99,99,99,99,dän,99
+MeFiBa,medien- und filmgesellschaft baden-württemberg,4,99,99,99,99,99,99,99,deu,99
+chhu,christian husum,2,2,99,99,99,99,99,99,99,99
+erab,eric abraham,2,2,99,99,99,99,99,99,99,99
+LaG,la grande bellezza,1,99,2,99,99,1,99,2013,fraita,1
+BaFi,babe films,3,99,99,99,99,99,99,99,fra,99
+PaFil,pathe films,3,99,99,99,99,99,99,99,fra,99
+Rom,roma,1,99,99,99,1,99,99,2018,mexusa,2
+nice, nicolas celis,2,2,99,99,99,99,99,99,99,99
+alcu,alfonso cuarón,2,2,99,99,99,99,99,99,99,99
+garo,gabriela rodríguez,2,1,99,99,99,99,99,99,99,99
+EspFiPr,esperanto filmoj production,3,99,99,99,99,99,99,99,usa,99
+TheSh,the shape of water,1,99,99,99,1,99,99,2017,mexusa,2
+guto,guillermo del toro ,2,2,99,99,99,99,99,99,99,99
+jmda,j miles dale,2,2,99,99,99,99,99,99,99,99
+BulPr,bull productions ,3,99,99,99,99,99,99,99,usa,99
+DoDaYo,double dare you ,3,99,99,99,99,99,99,99,usa,99
+Ang,ang babaeng humayo,1,99,99,99,1,99,99,2016,phi,2
+CiOnOr, cinema one originals,3,99,99,99,99,99,99,99,phi,99
+Des,desde alla,1,99,99,99,1,99,99,2015,mexven,1
+guar,guillermo arriaga,2,2,99,99,99,99,99,99,99,99
+roco,rodolfo cova,2,2,99,99,99,99,99,99,99,99
+mifr,michel franco,2,2,99,99,99,99,99,99,99,99
+lovi,lorenzo vigas,2,2,99,99,99,99,99,99,99,99
+FaRhPr,factor rh producciones,3,99,99,99,99,99,99,99,ven,99
+MaFi,malandro films,3,99,99,99,99,99,99,99,99,99
+LuFi,lucia films,3,99,99,99,99,99,99,99,99,99
+CeNaAuDeCi,centro nacional autonomo de cinematografía,4,99,99,99,99,99,99,99,ven,99
+End,en duva satt pa en gren och funderade pa tillvaron,1,99,99,99,1,2,99,2014,schdnorfradeu,1
+haov,hakon overas,2,2,99,99,99,99,99,99,99,99
+pesa,pernilla sandstrom,2,1,99,99,99,99,99,99,99,99
+RoAnFi,roy andersson filmproduktion,3,99,99,99,99,99,99,99,schd,99
+41FiAs,4 1/2 film as,3,99,99,99,99,99,99,99,nor,99
+NoFiTv,nordisk film tv-fond,4,99,99,99,99,99,99,99,nor,99
+NorFi,norsk filmfond,4,99,99,99,99,99,99,99,nor,99
+Sac,sacro gra,1,99,99,99,1,2,99,2013,italfra,1
+caso,carole solive,2,1,99,99,99,99,99,99,99,99
+mavi,marco visalberghi,2,2,99,99,99,99,99,99,99,99
+guol,gustavo angel olaya,2,2,99,99,99,99,99,99,99,99
+pabr,paolo del brocco,2,2,99,99,99,99,99,99,99,99
+roba,roberta ballarini,2,1,99,99,99,99,99,99,99,99
+RaCi,rai cinema,3,99,99,99,99,99,99,99,ita,99
+LaFeEn,la femme endormie,3,99,99,99,99,99,99,99,fra,99
+DoSr,doclab srl,3,99,99,99,99,99,99,99,ita,99
+MiPeIBeELeAtCu,ministero per i beni e le attivita culturali,4,99,99,99,99,99,99,99,ita,99
+ReLa,regione lazio,4,99,99,99,99,99,99,99,ita,99
+FiLaDiSv,finanziaria laziale di sviluppo,4,99,99,99,99,99,99,99,ita,99
+RoLaFiCo,roma lazio film commission,4,99,99,99,99,99,99,99,ita,99
+Tou,touch me not,1,99,99,1,99,2,99,2018,rumdeutscbulfra,1
+bioa,bianca oana,2,1,99,99,99,99,99,99,99,99
+phav,philippe avril,2,2,99,99,99,99,99,99,99,99
+adpi,adina pintilie,2,1,99,99,99,99,99,99,99,99
+bedr,benny drechsel,2,2,99,99,99,99,99,99,99,99
+rasi,radovan sibrt,2,2,99,99,99,99,99,99,99,99
+alka,alzbeta karaskova,2,1,99,99,99,99,99,99,99,99
+mabo,martichka bozhilova,2,1,99,99,99,99,99,99,99,99
+MaFil,manekino film,3,99,99,99,99,99,99,99,99,99
+RoPr,rohfilm productions,3,99,99,99,99,99,99,99,deu,99
+Pin,pink,3,99,99,99,99,99,99,99,tsc,99
+Ag,agitprop,3,99,99,99,99,99,99,99,spa,99
+LeFiDeLe,les films de letranger,3,99,99,99,99,99,99,99,fra,99
+4PrFi,4 proof film,3,99,99,99,99,99,99,99,rum,99
+Tes,testrol es lelekrol,1,99,99,1,99,2,99,2017,ung,1
+mome,monika mecs,2,1,99,99,99,99,99,99,99,99
+anmu,andras muhi,2,2,99,99,99,99,99,99,99,99
+erme,erno mesterhazy,2,2,99,99,99,99,99,99,99,99
+In,inforg – m&m film kft,3,99,99,99,99,99,99,99,ung,99
+HuNaFiFo,hungarian national film fund,4,99,99,99,99,99,99,99,ung,99
+Fuo,fuocoammare,1,99,99,1,99,2,99,2016,itafra,1
+giro,gianfranco rosi,2,2,99,99,99,99,99,99,99,99
+dopa,donatella palermo,2,1,99,99,99,99,99,99,99,99
+21Un,21 unofilm,3,99,99,99,99,99,99,99,ita,99
+StEn,stemal entertainment,3,99,99,99,99,99,99,99,ita,99
+InLuCi,instituto luce cinecitta,4,99,99,99,99,99,99,99,ita,99
+MiDeBeEDeAtCuEDeTu,ministero dei beni e delle attivita culturali e del turismo,4,99,99,99,99,99,99,99,ita,99
+Tax,taxi,1,99,99,1,99,99,99,2015,ira,2
+JaPaFiPr,jafar panahi film production,3,99,99,99,99,99,99,99,ira,99
+Bai,bai ri yan huo,1,99,99,1,99,99,99,2014,chi,2
+viqu,vivian qu,2,1,99,99,99,99,99,99,99,99
+yash,yang shen,2,2,99,99,99,99,99,99,99,99
+juwa,juan wan,2,2,99,99,99,99,99,99,99,99
+dazh,dajun zhang,2,99,99,99,99,99,99,99,99,99
+OmMe,omnijoi media,3,99,99,99,99,99,99,99,chi,99
+BoEnCh,boneyard entertainment china,3,99,99,99,99,99,99,99,chi,99
+ChFiGrCo,china film group corporation (cfgc),3,99,99,99,99,99,99,99,chi,99
+Poz,Pozitia copilulup,1,99,99,1,99,2,99,2013,rum,1
+cane,calin peter netzer,2,2,99,99,99,99,99,99,99,99
+adso,ada solomon,2,1,99,99,99,99,99,99,99,99
+HaHuEn,hai hui entertainement,3,99,99,99,99,99,99,99,rum,99
+HbEu,hbo europe,3,99,99,99,99,99,99,99,eur,99
+PaFilm,parada film,3,99,99,99,99,99,99,99,rum,99
+CeNaAlCi,centrul national al cinematografiei,4,99,99,99,99,99,99,99,fra,99
+Co99Fi,coop 99 filmproduktion,3,99,99,99,99,99,99,99,öst,99
+ÖsFi,österreichisches filminstitut,4,99,99,99,99,99,99,99,öst,99
+PoFi,polnisches filminstitut,4,99,99,99,99,99,99,99,pol,99
+Quo,quo vadis aida,1,99,99,99,99,1,99,2021,bosdeufranienoröstpolrumtür,1
+De,deblokada,3,99,99,99,99,99,99,99,bos,99
+DiCu,digital cube,3,99,99,99,99,99,99,99,rom,99
+N2En,n279 entertainment,3,99,99,99,99,99,99,99,nie,99
+RaFiPr,razor film produktion,3,99,99,99,99,99,99,99,deu,99
+ExEm,extreme emotions,3,99,99,99,99,99,99,99,pol,99
+InPr,indie prod,3,99,99,99,99,99,99,99,fra,99
+ToAs,tordenfilm as,3,99,99,99,99,99,99,99,nor,99
+OrFi,orf film-fernsehabkommen,4,99,99,99,99,99,99,99,öst,99
+jazb,jasmila zbanic,2,1,99,99,99,99,99,99,99,99
+daib,damir ibrahimovich,2,2,99,99,99,99,99,99,99,99
