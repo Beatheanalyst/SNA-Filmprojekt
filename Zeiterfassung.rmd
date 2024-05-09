@@ -23,12 +23,9 @@ Tabea Blume: Github-Verwaltung und -pflege, Codebuch-Pflege, Recherche, Datenerh
 
 Emma Challouf: Entwicklung von Hilfe-Tools zur Datenerhebung (Checkliste für die Edge-Verbindungen), Recherche, Datenerhebung und Coding, Datenbereinigung, Zeitaufwand circa 120 Stunden
 
-
 Alice Kärcher: Notion-Management, Überblick über Zeitplan und Meilensteine, Recherche, Datenerhebung und Coding, Datenbereinigung, Zeitaufwand circa 120 Stunden
 
-
 Aylin Köklü: Visualisierung und Code-Testing in R, Recherche, Datenerhebung und Coding, Datenbereinigung, Zeitaufwand circa 120 Stunden
-
 
 Kim Romagnoli: Visualisierung und Code-Testing in R, Recherche, Datenerhebung 
 und Coding, Datenbereinigung, Zeitaufwand circa 120 Stunden
