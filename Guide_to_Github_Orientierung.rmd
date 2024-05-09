@@ -1,0 +1,18 @@
+---
+title: "Guide_to_Githubfolder"
+author: "tb176, ec031, ak349, ak359, kr068"
+date: "2024-05-09"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Guide für die Github Ordner
+## allgemein: Unsere Ordner sind in Arbeitsphasen unterteilt, die wir zu den jeweiligen Zeiten genutzt haben. In jedem Ordner sind die wichtigsten Dokumente vermerkt und zur Sicherheit jweils neu hochgeladen, um immer die aktuellsten Dokumente und Daten zu haben.
+## Pretest: Diese Daten haben wir im Pretest genutzt
+## First Data: Erste Arbeitsphase. Dieser Zeitraum startet ab dem Pretest und endet am 16.02.2024
+## Second Data: Zweite Arbeitsphase. Dieser Zeitraum startet ab dem 16.02.2024 und erstreckt sich über die Blocktage
+## Final Data: Finale Arbeitsphase. Hier findet man die komplett bereinigten und fertig aufbereiteten Daten. Diese nutzen wir für den Forschungsbericht und den edit. Artikel
+
