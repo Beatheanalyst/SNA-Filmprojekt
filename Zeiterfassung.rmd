@@ -1,0 +1,35 @@
+---
+title: "Zeiterfassung"
+author: "tb176, ec031, ak349, ak359, kr068"
+date: "2024-05-09"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Teammitglieder 
+
+Tabea Blume (tb176)
+Emma Challouf (ec031)
+Alice Kärcher (ak349)
+Aylin Köklü (ak359)
+Kim Romagnoli (kr068)
+
+# Arbeitsaufwand und Rollen im Team
+
+Tabea Blume: Github-Verwaltung und -pflege, Codebuch-Pflege, Recherche, Datenerhebung und Coding, Datenbereinigung, Zeitaufwand circa 120 Stunden 
+
+Emma Challouf: Entwicklung von Hilfe-Tools zur Datenerhebung (Checkliste für die Edge-Verbindungen), Recherche, Datenerhebung und Coding, Datenbereinigung, Zeitaufwand circa 120 Stunden
+
+
+Alice Kärcher: Notion-Management, Überblick über Zeitplan und Meilensteine, Recherche, Datenerhebung und Coding, Datenbereinigung, Zeitaufwand circa 120 Stunden
+
+
+Aylin Köklü: Visualisierung und Code-Testing in R, Recherche, Datenerhebung und Coding, Datenbereinigung, Zeitaufwand circa 120 Stunden
+
+
+Kim Romagnoli: Visualisierung und Code-Testing in R, Recherche, Datenerhebung 
+und Coding, Datenbereinigung, Zeitaufwand circa 120 Stunden
+
