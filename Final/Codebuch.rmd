@@ -1,0 +1,125 @@
+---
+title: "Codebuch"
+author: "tb176, ec031, ak349, ak359, kr068"
+date: "2024-05-09"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Codebuch
+
+### Edgelist	
+Grundregel: Die Edgelist darf pro Spalte immer nur einen Wert enthalten. 
+Bis auf die ID idealerweise numerisch codiert (als Zahl).
+
+#### Arbeit an (relation=1)
+From	Produzent, Produktionsfirma
+To	  Film
+
+#### Geldstrom (z.B. Förderung) (relation=2)
+From	Förderung
+To	  Film und zu Produktionsfirma
+
+#### Zusammenarbeit (reziprok, wird zweimal eingetragen) (relation=3) im Projekt und in Kontakt miteinander
+From			Produzent des jeweiligen Films untereinander
+To		  	Produzent des jeweiligen Films untereinander
+From	  	Produzent, Produktionsfirma (Vorsicht vor falschem Auswerten später -> wir wissen nicht wirklich ob jeder Produzent mit jeder Produktionsfirma zusammenarbeitet)
+To		  	Produktionsfirma, Produzent
+
+#### weight
+Grundregel: die Zahlen werden jeweils bei den Verbindungen eingetragen. Das bedeutet: wenn Verbindungen zweimal auftauchen, wird bei den jeweiligen Verbindungen eine 2 eingetragen.
+	1: Eine Verbindung von Filmförderung zur Produktionsfirma (mit relation=2) existiert nur einmal bei nur einem Film 
+	2: Die Verbindung von Filmförderung a zur Produktionsfirma b (mit relation=2) existiert zweimal in der edgelist
+	3: Die Verbindung von Filmförderung a zur Produktionsfirma b (mit relation=2) existiert dreimal in der edgelist
+	4: Die Verbindung von Filmförderung a zur Produktionsfirma b (mit relation=2) existiert viermal in der edgelist
+	5: Die Verbindung von Filmförderung a zur Produktionsfirma b (mit relation=2) existiert fünfmal in der edgelist
+	99: bei allen Verbindungen, die nicht relation 2 haben
+
+### Nodelist	
+Grundregel: die IDs der Nodelist müssen mit den IDs der Edgelist komplett übereinstimmen. Ausprägungen der Attribute in der Regel numerisch definieren.
+- Id	Institutionen (hier wird Groß- und Kleinschreibung beachtet): production company, die ersten zwei Buchstaben der jeweiligen Wörter; Filme, die ersten drei Buchstaben vom ersten Wort; bei Artikeln noch den ersten Buchstaben vom nächsten Wort mitnehmen, Sonderzeichen ignorieren; funding, die ersten zwei Buchstaben der jeweiligen Wörter; fundation, die ersten zwei Buchstaben der jeweiligen Wörter. Ausnahme: Bei 4 1/2 film as haben wir das mit 41FiAs abgekürzt wegen des Schrägstriches.
+
+- natürliche Personen( hier wird alles klein geschrieben): Producer jeweils die ersten zwei Anfangsbuchstaben der Vor- und Nachnamen (Mittelnamen und Doppelnamen werden weggelassen; directors: die ersten zwei Anfangsbuchstaben der Vor- und Nachnamen (Mittelnamen und Doppelnamen werden weggelassen.
+
+Ausnahmen:	bei Filmtiteln mit "I...": dann I großgeschrieben und die ersten 3 Buchstaben des darauffolgenden Wortes normale Filmregel, also I Daniel Blake --> IDan
+
+BBC Films --> BbcFi
+
+Doppelung der Id "EsFi", deshalb esquina films weiterhin als EsFi und essential filmproduktion als EsFiPr
+
+OpFil für Opus Films, da id OpFi schon vorhanden
+
+MeFil für Medusa Films, da MeFi schon vorhanden
+
+jesey für jerome seydoux, weil id jese schon vorhanden
+
+pafil für pathe films, da id pafi bereits vorhanden
+
+name			Name/ Film/Produktionsfirma in Kleinbuchstaben
+
+NA			definiert fehlende Werte
+
+#### Category
+    1 Film
+    2 Produzent*innen (ohne executive und ohne line producer, aber mit coproducer)
+    3 Produktionsfirma (immer die ersten Buchstaben des jeweiligen Wortes (von jedem Wort des Namens; wenn nur ein Wort, dann nur ein Buchstabe; Zahlen werden wie der erste Buchstabe gewertet, dürfen aber nicht alleine stehen); bei Doppelungen vom ersten Wort nochmal den zweiten Buchstaben vom ersten Wort) nur Produktionsfirmen; dazu zählt auch z.B. Mattel Films weil sie selber produzieren, Firmen wie Nintendo, die sonst nicht selbst produzieren, fallen raus)
+    4 Filmförderung
+
+#### Sex
+
+   1 weiblich 
+   2 männlich
+   3 divers
+  99 für diese Kategorie nicht nominiert 
+
+
+#### Palme dor
+    1 gewonnen
+    2 nominiert
+   99 für diese Kategorie nicht nominiert 
+
+
+
+#### goldener bär
+    1 gewonnen
+    2 nominiert
+   99	für diese Kategorie nicht nominiert 
+
+
+#### Leone doro
+    1 gewonnen
+    2 nominiert
+   99	für diese Kategorie nicht nominiert 
+
+
+#### felix
+    1 gewonnen
+    2 nominiert
+   99	für diese Kategorie nicht nominiert 
+
+
+#### Pardo doro
+    1 gewonnen
+    2 nominiert
+   99 für diese Kategorie nicht nominiert 
+
+
+
+#### Year		      Jahr der Preisverleihumg
+  99	bei allen nodes, die keine Filme sind
+
+
+#### Nationalität	
+Nationaliät vom Film, Produktionsfirma und Filmförderung (immer die ersten drei Buchstaben, Kooperationen oder andere Zusammenarbeit der Länder mit jeweils den ersten drei Buchstaben z.B. deuame für deutsch-amerikanisch (erfassen wir in deutscher Sprache), bei keinem Wert: 99)
+
+Ausnahmen:
+bri für UK, schd für schweden und schz für schweiz, südkor für südkorea
+
+#### Funding	       
+Art der Filmförderung, codiert für Filme
+    1 Förderung vorhanden
+    2 keine Förderungen / independent movies/Keine Informationen über Filmförderung gefunden
+  99	für alle nodes, die keine Filme oder Förderungen sind
